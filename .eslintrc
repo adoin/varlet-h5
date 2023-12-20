@@ -8,8 +8,7 @@
     "eslint:recommended",
     "plugin:vue/vue3-essential",
     "plugin:@typescript-eslint/recommended",
-    "plugin:prettier/recommended",
-    "./.eslintrc-auto-import.json"
+    "plugin:prettier/recommended"
   ],
   "overrides": [],
   "parser": "vue-eslint-parser",
