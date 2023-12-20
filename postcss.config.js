@@ -1,6 +1,6 @@
 export default {
   plugins: {
-    'postcss-px-to-viewport': {
+    'postcss-px-conversion': {
       viewportWidth: 375,
       viewportUnit: 'vmin',
       fontViewportUnit: 'vmin',
